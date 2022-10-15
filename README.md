@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Software Developer
 -----------------------------
 
-Full-Stack Software Developer. I am on the mission to gain more skills as Software Development and use that to solve more problems. And get more people to watch Anime :)... especially One Piece!! GODA
+Full-Stack Software Developer. I am on the mission to gain more skills as Software Developer and use that to solve more problems. And get more people to watch Anime :)... especially One Piece!! GODA
 
 * 🌍  I'm based in Johannesburg, Gauteng
 * 🖥️  See my portfolio at [MyPortfolio](http://sheltered-beach-72014.herokuapp.com/)
