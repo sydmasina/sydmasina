@@ -4,7 +4,7 @@ Hi 👋 My name is Syd Masina
 Software Developer
 ------------------
 
-Software Developer. I am on the mission to gain more skills as and use that to solve more real world problems and build solutions... And to I live to see the end of One Piece!
+Software Developer. I am on the mission to gain more skills as a Software Developer and use that to solve more real world problems and build solutions... And also, I intend to I live to see the end of One Piece!
 
 * 🌍  I'm based in Johannesburg, Gauteng
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-syd.onrender.com/)
