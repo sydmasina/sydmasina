@@ -8,12 +8,16 @@ I'm a passionate software developer on a mission to continuously grow, solve rea
 
 🌍 Location
 * Johannesburg, Gauteng
+
 🖥️ Portfolio
 * [View My Portfolio](https://sydmasina.github.io/portfolio_002/)
+
 ✉️ Contact
 *  [masinasydwell@gmail.com](mailto:masinasydwell@gmail.com)
+
 🧠 Currently Learning
 * .Net
+
 🤝 Open to Collaboration
 * Excited to collaborate on innovative and impactful projects!
 
