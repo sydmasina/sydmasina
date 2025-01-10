@@ -29,18 +29,22 @@ I'm a passionate software developer on a mission to continuously grow, solve rea
 
 
 Frontend
-* HTML5, CSS3, JavaScript, Vue.js
+* Angular, React, Vue.js, TypeScript, SASS/SCSS
+
+Mobile Development
+* Flutter
   
 Backend
-* Node.js, Express.js, Django, Python, C++, C
+* .Net, C#, ASP.NET Core, Node.js, Python 
   
 Database
-* MongoDB, PostgreSQL, MySQL
-  
-Dev Tools
-* Git, Docker, VS Code
+* PostgreSQL, MySQL, MongoDB, 
 
+DevOps & Cloud Technologies
+* AWS, Azure, Docker, Kubernetes, CI/CD
 
+Version Control & Collaboration
+* Azure DevOops, Bitbucket, Git, GitHub, 
 
 ----------------
 ### Socials
