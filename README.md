@@ -44,7 +44,7 @@ DevOps & Cloud Technologies
 * AWS, Azure, Docker, Kubernetes, CI/CD
 
 Version Control & Collaboration
-* Azure DevOops, Bitbucket, Git, GitHub, 
+* Azure DevOps, Bitbucket, Git, GitHub, 
 
 ----------------
 ### Socials
