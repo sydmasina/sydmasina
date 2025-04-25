@@ -24,8 +24,7 @@ I'm a passionate software developer on a mission to continuously grow, solve rea
 
 
 
-------------------
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 
 Frontend
@@ -46,18 +45,18 @@ DevOps & Cloud Technologies
 Version Control & Collaboration
 * Azure DevOps, Bitbucket, Git, GitHub, 
 
-----------------
-### Socials
+
+## Socials
 
 <p align="left"> <a href="https://www.github.com/sydmasina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sydwellmasina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sydmasina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<br/>
 
 
------------------
-### My GitHub Stats
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sydwell&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sydwell&theme=neon&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sydwell&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-
-
-<a href="http://www.github.com/sydmasina"><img src="https://github-readme-stats.vercel.app/api?username=sydmasina&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="sydmasina's GitHub stats" /></a>
-
-
-<a href="https://github.com/sydmasina" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sydmasina&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sydwell&theme=radical&no-frame=false&no-bg=false&margin-w=4)
