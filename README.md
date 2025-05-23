@@ -6,6 +6,21 @@ Software Developer
 
 I'm a passionate software developer on a mission to continuously grow, solve real-world problems, and build impactful solutions. My work combines creativity and technical expertise, and I strive to make meaningful contributions through technology. Oh, and yes—I fully intend to live long enough to see the end of One Piece! 🏴‍☠️
 
+## 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=sydmasina&theme=neon&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sydmasina&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=sydmasina&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sydmasina&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sydmasina&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 🌍 Location
 * Johannesburg, Gauteng
 
@@ -20,8 +35,6 @@ I'm a passionate software developer on a mission to continuously grow, solve rea
 
 🤝 Open to Collaboration
 * Excited to collaborate on innovative and impactful projects!
-
-
 
 
 ## 🚀 Tech Stack
@@ -52,14 +65,4 @@ Version Control & Collaboration
 <br/>
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sydmasina&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sydmasina&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sydmasina&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sydmasina&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sydmasina&limit=5&theme=radical&combine_all_yearly_contributions=true)
