@@ -4,7 +4,7 @@ Hi 👋 My name is Syd Masina
 Software Developer
 ------------------
 
-I'm a passionate software developer on a mission to continuously grow, solve real-world problems, and build impactful solutions. My work combines creativity and technical expertise, and I strive to make meaningful contributions through technology. Oh, and yes—I fully intend to live long enough to see the end of One Piece! 🏴‍☠️
+I'm a passionate full stack developer based in South Africa, focused on building seamless digital experiences using Angular on the frontend and ASP.NET Core on the backend. Currently working on real-world projects like job boards, banking apps, and AI-driven features.
 
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=sydmasina&theme=neon&hide_border=false)<br/>
