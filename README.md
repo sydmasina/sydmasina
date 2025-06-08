@@ -58,6 +58,10 @@ DevOps & Cloud Technologies
 Version Control & Collaboration
 * Azure DevOps, Bitbucket, Git, GitHub, 
 
+## 📫 Let's connect
+
+I'm open to freelance opportunities, collaborations, or just a chat about web development, Angular, or AI in fintech. Reach out via LinkedIn or GitHub!
+
 
 ## Socials
 
