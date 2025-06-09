@@ -37,26 +37,36 @@ I'm a passionate full stack developer based in South Africa, focused on building
 * Excited to collaborate on innovative and impactful projects!
 
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack & Expertise
 
+As a full-stack developer with a strong focus on Angular and .NET, I bring both frontend finesse and backend robustness to every project. I'm passionate about building scalable web applications, streamlining user experiences, and leveraging modern DevOps practices.
 
-Frontend
-* Angular, React, Vue.js, TypeScript, SASS/SCSS
+### 🖥️ Frontend Development
+- **Frameworks & Libraries:** Angular (primary), React, Vue.js  
+- **Languages & Tools:** TypeScript, JavaScript, SASS/SCSS, HTML5  
+- **Specialties:** Component-driven architecture, lazy loading, state management (NgRx, RxJS)
 
-Mobile Development
-* Flutter
-  
-Backend
-* .Net, C#, ASP.NET Core, Node.js, Python 
-  
-Database
-* PostgreSQL, MySQL, MongoDB, 
+### 📱 Mobile Development
+- **Flutter:** Cross-platform mobile apps with elegant UI and performance.
 
-DevOps & Cloud Technologies
-* AWS, Azure, Docker, Kubernetes, CI/CD
+### 🧠 Backend Development
+- **.NET Ecosystem:** C#, ASP.NET Core (Web API, MVC)  
+- **Other Backends:** Node.js (Express), Python (Flask/Django basics)  
+- **Focus Areas:** RESTful APIs, clean architecture, authentication flows (OTP-based), asynchronous programming
 
-Version Control & Collaboration
-* Azure DevOps, Bitbucket, Git, GitHub, 
+### 🗄️ Databases
+- **Relational:** PostgreSQL, MySQL  
+- **NoSQL:** MongoDB  
+- **ORMs & Tools:** Entity Framework Core, Dapper
+
+### ☁️ DevOps & Cloud Technologies
+- **Cloud Platforms:** Microsoft Azure (strong focus), AWS  
+- **Containerization & Orchestration:** Docker, Kubernetes  
+- **CI/CD Pipelines:** Azure DevOps, GitHub Actions
+
+### 🔁 Version Control & Collaboration
+- Git (daily driver), GitHub, Bitbucket, Azure Repos  
+- Agile collaboration using Azure Boards, Jira
 
 ## 📫 Let's connect
 
