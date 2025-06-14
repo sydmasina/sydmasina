@@ -31,7 +31,7 @@ I'm a passionate full stack developer based in South Africa, focused on building
 *  [masinasydwell@gmail.com](mailto:masinasydwell@gmail.com)
 
 🧠 Currently Learning
-* .Net
+* Asp.Net
 
 🤝 Open to Collaboration
 * Excited to collaborate on innovative and impactful projects!
