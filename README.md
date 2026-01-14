@@ -9,17 +9,17 @@ I'm a passionate full stack developer based in South Africa, focused on building
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=sydmasina&theme=neon&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sydmasina&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sydmasina&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=sydmasina&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-fast.vercel.app/api?username=sydmasina&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sydmasina&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=sydmasina&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sydmasina&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-readme-stats-fast.vercel.app/api?username=sydmasina&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 🌍 Location
 * Johannesburg, Gauteng
